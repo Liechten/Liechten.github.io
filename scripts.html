@@ -14,6 +14,12 @@
 			<audio autoplay loop preload>
 				<source src="media/music.mp3">
 			</audio>
+		<script>
+		$.getJSON("/hle/hle_version.json", outFunc);
+			function outFunc(data) {
+			
+			}
+			</script>
 	</head>
 	<body class="no-sidebar is-preload">
 		<div id="page-wrapper">
@@ -87,7 +93,7 @@
 					<p>Этот скрипт предназначен для всех Правоохранительных органов: LSPD, SFPD, SWAT, FBI, Army. Так же хочу
 						донести что MOH,
 						CNN, GOV не относятся к П.О. По этому для некоторых сделаны отдельные скрипты.</p>
-					<p>Текущая версия: 3.66</p>
+					<p id='data'>Текущая версия: 3.66</p>
 					<ul class="buttons">
 						<li><a href="https://vk.cc/aa27x9" class="button small" target="_blank">Скачать</a></li>
 					</ul>
