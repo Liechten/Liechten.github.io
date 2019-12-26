@@ -11,7 +11,14 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<audio autoplay loop preload>
 		<source src="media/music.mp3">
+		</audio>
+		<script type="text/javascript" src="https://vk.com/js/api/openapi.js?162"></script>
+		
+		<script type="text/javascript">
+			VK.init({ apiId: 6913993, onlyWidgets: true });
+		</script>
 	</head>
 	<body class="index is-preload">
 		<div id="page-wrapper">
@@ -220,10 +227,13 @@
 					</footer>
 
 				</section>
-
+<div id="vk_comments"></div>
+<script type="text/javascript">
+	VK.Widgets.Comments("vk_comments", { limit: 10, attach: "*" });
+</script>
 			<!-- Footer -->
 				<footer id="footer">
-
+					
 					<ul class="icons">
 						<!-- <li><a href="#" class="icon brands circle fa-twitter"><span class="label">Twitter</span></a></li> -->
 						<li><a href="https://vk.com/scripts_by_liechtenstein" class="icon brands circle fa-vk"><span class="label">ВКонтакте</span></a></li>
