@@ -1,0 +1,3 @@
+let jsonData = {"foo":"bar","id":42};
+let formattedJson = JSON.stringify(jsonData, null, 4);
+document.body.innerHTML += `<pre>${formattedJson}</pre>`;
