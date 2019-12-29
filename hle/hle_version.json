@@ -1,6 +1,6 @@
 {
-  "latest": "3.71", 
+  "latest": "3.72", 
   "updateurl": "https://github.com/Liechten/projects/raw/master/Helper_Law_Enforcement.lua",
-  "updlist": " FIX 27.12.2019
-  • - Обнволение FIX 3.68\n - Фиксы и фикс загрузки и создания файлов (исправлена функция вызывающая краш). "
+  "updlist": " FIX 29.12.2019
+  • - Обнволение FIX 3.72\n - Фикс функции обновления и тд (исправлена функция вызывающая краш). "
 }
