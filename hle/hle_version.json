@@ -1,5 +1,5 @@
 {
-  "latest":"3.81", 
+  "latest":"3.82", 
   "updateurl": "https://github.com/Liechten/projects/raw/master/Helper_Law_Enforcement.lua",
   "updlist": " FIX 07.01.2020
   • Обнволение UPD 3.8\n - Добалвены ковые команды.\n - Код очищен от мусора (он похудел малька)\n - Пофикшены функции.
