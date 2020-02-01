@@ -2,7 +2,12 @@
   "latest": 3.942,
   "updateurl": "https://github.com/Liechten/liechten.github.io/raw/master/hle/Helper_Law_Enforcement.lua",
   "updlist": " 
-Обновление UPD 3.942
- - Пофикшена /govend и /govs
+Обновление FIX 3.95:
+  - Добавил заметки, команды: /mnote, /notenum, noteplay. 
+  - Убрал отыгровки WASD Space в режиме /dron. 
+  - Пофиксил /govend(Теперь скринит).
+  - добавил в Вещатель кнопку гов выдачи номеров в ЛСПД и СФПД.
+  - Так же в вещателе теперь есть кнопка Заявки для ЛСПД.
+  - Покрасил меню команд (а точнее сами команды).
 "
 }
