@@ -2,9 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
 
 /*
-	Twenty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	CSS by Liechten
 */
 
 html, body, div, span, applet, object,
@@ -135,7 +133,16 @@ input, select, textarea {
 		margin-bottom: 1em;
 		text-transform: uppercase;
 	}
-
+   ul.hr {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+   }
+   ul.hr li {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    border: 1px solid #000; /* Рамка вокруг текста */
+    padding: 3px; /* Поля вокруг текста */
+   }
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 			text-decoration: none;
