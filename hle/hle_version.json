@@ -1,9 +1,10 @@
 {
-  "latest": 3.951,
+  "latest": 3.952,
   "updateurl": "https://github.com/Liechten/liechten.github.io/raw/master/hle/Helper_Law_Enforcement.lua",
   "updlist": " 
-Обновление FIX 3.951:
+Обновление FIX 3.952:
   - Пофиксил команды наборов
   - Добавил кнопки наборов для LSPD и SFPD
+  - Пофиксил функцию выдачи номеров в Базе Данных в /hle
 "
 }
