@@ -1,8 +1,9 @@
 {
-  "latest": 3.9541,
+  "latest": 3.955,
   "updateurl": "https://github.com/Liechten/liechten.github.io/raw/master/hle/Helper_Law_Enforcement.lua",
   "updlist": " 
-Обновление FIX 3.9541:
-  - Небольшие фиксы
+Обновление FIX 3.955
+  - Фикс команд выдачи розыска(так же добавил новые).
+  - Пофиксил сисму выдачи номеров
 "
 }
