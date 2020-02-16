@@ -1,9 +1,8 @@
 {
-  "latest": 3.962,
+  "latest": 3.963,
   "updateurl": "https://github.com/Liechten/liechten.github.io/raw/master/hle/Helper_Law_Enforcement.lua",
   "updlist": " 
-Обновление FIX 3.962
-  - Пофикшены команды /sob.
-  - Убран худ из-за ошибок при загрузке.
+Обновление FIX 3.963
+  - Микрофикс команды /sob
 "
 }
