@@ -1,9 +1,9 @@
 {
-  "latest": 3.961,
+  "latest": 3.962,
   "updateurl": "https://github.com/Liechten/liechten.github.io/raw/master/hle/Helper_Law_Enforcement.lua",
   "updlist": " 
-Обновление FIX 3.961
+Обновление FIX 3.962
   - Пофикшены команды /sob.
-  - Добавлен выключатель худа в меню настроек.
+  - Убран худ из-за ошибок при загрузке.
 "
 }
