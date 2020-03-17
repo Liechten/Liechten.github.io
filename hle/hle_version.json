@@ -1,8 +1,10 @@
 {
-  "latest": 3.963,
+  "latest": 3.964,
   "updateurl": "https://github.com/Liechten/liechten.github.io/raw/master/hle/Helper_Law_Enforcement.lua",
   "updlist": " 
-Обновление FIX 3.963
-  - Микрофикс команды /sob
+Обновление FIX 3.964
+  - Фиксы ошибок
+  - Изменение /sob
+  - Добавлены новые кнопки в Вещатель
 "
 }
